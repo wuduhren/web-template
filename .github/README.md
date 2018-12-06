@@ -73,27 +73,27 @@ This is is particularly useful whem we want to controll front-end display by per
 # Screen Shot
 登入
 <br/>
-<kbd><img src="https://imgur.com/UK4B00x.png" /></kbd>
+![](https://imgur.com/0y3g89m.png)
 <br/>
 <br/>
 首頁
 <br/>
-<kbd><img src="https://imgur.com/UNY41ay.png" /></kbd>
+![](https://imgur.com/KYe095q.png)
 <br/>
 <br/>
 人員管理
 <br/>
-<kbd><img src="https://imgur.com/9Fx2Lw9.png" /></kbd>
+![](https://imgur.com/GJREPYx.png)
 <br/>
 <br/>
 新增人員
 <br/>
-<kbd><img src="https://imgur.com/DYiS2la.png" /></kbd>
+![](https://imgur.com/npAVk8R.png)
 <br/>
 <br/>
 修改個人資料
 <br/>
-<kbd><img src="https://imgur.com/TbkJN29.png" /></kbd>
+![](https://imgur.com/V96Q3Ao.png)
 
 
 # Install
