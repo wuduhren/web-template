@@ -111,7 +111,7 @@ This is is particularly useful whem we want to controll front-end display by per
 	
 	Once you login with that account. You are forced to create a new account with all permission. Then the root will be automatically deleted.
 
-# 套件
+# Library
 ## Bootstrap(4.1.3)
 1. 包含css及js
 2. 都使用CDN
