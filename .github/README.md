@@ -71,7 +71,6 @@ This is is particularly useful whem we want to controll front-end display by per
 	<?}?>
 	```
 # Screen Shot
-<br/>
 ![](https://imgur.com/UK4B00x.png)
 <br/>
 ![](https://imgur.com/UNY41ay.png)
