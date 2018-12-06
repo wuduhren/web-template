@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+</head>
+<style>
+html,body {background:#F2F6FA; text-align:center;margin:3rem 1rem;}
+#title {color:#2980b9;}
+#subtitle {color:#666;}
+#home {
+    color:#fff;
+    background:#2980b9;
+    padding:0.5rem 1rem;
+    text-decoration:none;
+}
+</style>
+<body>
+<h2 id="title"></h2>
+<div id="subtitle"></div>
+<br><br>
+<a href="index.php" id="home"></a>
+<script>
+var lang = navigator.language || navigator.userLanguage; 
+if (lang=='zh-TW') {
+    document.getElementById("title").innerHTML="很抱歉，系統維護中";
+    document.getElementById("subtitle").innerHTML="請稍候再試";
+    document.getElementById("home").innerHTML="重新登入";
+}
+else {
+    document.getElementById("title").innerHTML="Website is currently under maintenance.";
+    document.getElementById("subtitle").innerHTML="We'll be back shortly.";
+    document.getElementById("home").innerHTML="LOGIN";
+}
+</script>
+</body>
+</html>
